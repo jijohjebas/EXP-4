@@ -43,10 +43,15 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 Rectifier without filter
+<img width="1043" height="559" alt="image" src="https://github.com/user-attachments/assets/a453f931-bb2f-4919-a3df-b108f396596c" />
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="1013" height="646" alt="image" src="https://github.com/user-attachments/assets/3c1933a6-2a04-4098-aa39-1f4404511180" />
 
 WAVEFORM:
+<img width="1020" height="661" alt="image" src="https://github.com/user-attachments/assets/fad3a7db-be51-47a5-8ef2-652f7e82585b" />
+<img width="1012" height="666" alt="image" src="https://github.com/user-attachments/assets/6f9a4f32-db6c-4a06-90d5-38f6f891d0f6" />
 
 
 RESULT:
